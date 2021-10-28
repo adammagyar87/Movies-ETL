@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# csv files too big for git push
+credits.csv
+ratings.csv
+
 # Distribution / packaging
 .Python
 build/
